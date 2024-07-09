@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👥 Hola, mi nombre es Zarela Manrique 👋
 
-<!--
-**ZarelaMC/ZarelaMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Backend Developer
 
-Here are some ideas to get you started:
+![https://github.com/ZarelaMC](./banner.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy estudiante técnico de Computación e Informática
+
+Me apasiona estudiar el amplio campo de la tecnología y profundizar en él a través del aprendizaje continuo.
+He participado en el desarrollo de diversos proyectos grupales, obteniendo importantes logros y habilidades en lenguajes de programación como Java y C# y frameworks de desarrollo como Spring, Angular y .NET. Tengo experiencia en la gestión de bases de datos como MySQL y SQL Server, así como en herramientas de control de versiones como Git.
+
+## Intereses:
+
+> 🔹 Programación Backend y Frontend
+> 
+> 🔹 Transact-SQL
+> 
+> 🔹 Gestión de proyectos
+
+
+## Redes de contacto:
+
+<a href="https://www.linkedin.com/in/zarelamc/"><img src="https://img.icons8.com/?size=256&id=8808&format=png" alt="LinkedIn" style="height: 5%; width: 5%;"></a>
+<a href="mailto:zarelamanriquecondori@gmail.com"><img src="https://img.icons8.com/?size=256&id=ptAjLogGbrSi&format=png" alt="Email" style="height: 5%; width: 5%;"></a>
