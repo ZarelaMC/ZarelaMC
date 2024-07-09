@@ -1,6 +1,6 @@
 # 👥 Hola, mi nombre es Zarela Manrique 👋
 
-### Junior Backend Developer
+### Junior Backend - Frontend Developer
 
 ![https://github.com/ZarelaMC](./banner.png)
 
