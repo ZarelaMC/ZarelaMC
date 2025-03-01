@@ -9,7 +9,7 @@ Soy estudiante técnico de Computación e Informática
 Me apasiona estudiar el amplio campo de la tecnología y profundizar en él a través del aprendizaje continuo.
 He participado en el desarrollo de diversos proyectos grupales, obteniendo importantes logros y habilidades en lenguajes de programación como Java y C# y frameworks de desarrollo como Spring, Angular y .NET. Tengo experiencia en la gestión de bases de datos como MySQL y SQL Server, así como en herramientas de control de versiones como Git.
 
-## Lenguajes y herramientas:
+## Experiencias con lenguajes y herramientas en proyectos académicos:
 <div>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
