@@ -1,15 +1,13 @@
 # 👥 Hola, mi nombre es Zarela Manrique 👋
 
-### Junior Backend - Frontend Developer
+### Backend - Frontend Developer
 
 ![https://github.com/ZarelaMC](./banner.png)
 
-Soy estudiante técnico de Computación e Informática
+Tengo experiencia en proyectos completos (end-to-end) usando Java y C#, y frameworks como Spring, Angular y .NET ✨
+He trabajado tanto en arquitecturas monolíticas como en microservicios. 👩‍💻 Mi interés por aprender me llevó a trabajar en interesantes proyectos de ingeniería de datos aprendiendo a manejar servicios de la nube de Micrsoft como Fabric, Azure y Databricks. Tengo experiencia gestionando bases de datos SQL y utilizando control de versiones con Git. ¡Me apasiona aprender continuamente y construir soluciones escalables y mantenibles! 🚀
 
-Me apasiona estudiar el amplio campo de la tecnología y profundizar en él a través del aprendizaje continuo.
-He participado en el desarrollo de diversos proyectos grupales, obteniendo importantes logros y habilidades en lenguajes de programación como Java y C# y frameworks de desarrollo como Spring, Angular y .NET. Tengo experiencia en la gestión de bases de datos como MySQL y SQL Server, así como en herramientas de control de versiones como Git.
-
-## Experiencias con lenguajes y herramientas en proyectos académicos:
+## Experiencias con lenguajes y herramientas en proyectos reales:
 <div>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
@@ -73,11 +71,13 @@ He participado en el desarrollo de diversos proyectos grupales, obteniendo impor
 
 ## Intereses:
 
-> 🔹 Programación Backend y Frontend
+> 🔹 Desarrollo Backend y Frontend
 > 
-> 🔹 Transact-SQL
+> 🔹 Ingeniería de datos
 > 
-> 🔹 Gestión de proyectos
+> 🔹 Gestión de proyectos y metodologías ágiles
+> 
+> 🔹 Buenas prácticas, testing y CI/CD
 
 
 ## Redes de contacto:
