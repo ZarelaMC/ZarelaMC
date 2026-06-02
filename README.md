@@ -4,7 +4,7 @@
 
 ![https://github.com/ZarelaMC](./banner.png)
 
-Tengo experiencia en proyectos completos (end-to-end) usando Java y C#, y frameworks como Spring, Angular y .NET ✨
+Tengo experiencia en proyectos completos (end-to-end) usando Java y C#, y frameworks como Spring, Angular y .NET
 He trabajado tanto en arquitecturas monolíticas como en microservicios. 👩‍💻 Mi interés por aprender me llevó a trabajar en interesantes proyectos de ingeniería de datos aprendiendo a manejar servicios de la nube de Micrsoft como Fabric, Azure y Databricks. Tengo experiencia gestionando bases de datos SQL y utilizando control de versiones con Git. ¡Me apasiona aprender continuamente y construir soluciones escalables y mantenibles! 🚀
 
 ## Experiencias con lenguajes y herramientas en proyectos reales:
